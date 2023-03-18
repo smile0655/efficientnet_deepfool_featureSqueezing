@@ -1,1 +1,1 @@
-adversarial attack and detection for medical images
+adversarial attack and detection algorithm for medical images
